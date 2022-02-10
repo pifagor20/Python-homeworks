@@ -1,0 +1,11 @@
+print('#########', end='\n')
+print('#', '#', sep='       ', end='\n')
+print('#', '#', sep='       ', end='\n')
+print('#', '#', sep='       ', end='\n')
+print('#########', end='\n \n')
+
+print('#', '#', sep='       ', end='\n')
+print('#', '#', sep='       ', end='\n')
+print('#########', end='\n')
+print('#', '#', sep='       ', end='\n')
+print('#', '#', sep='       ', end='\n')

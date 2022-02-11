@@ -10,6 +10,7 @@
 # print('#', '#', sep='\t\t', end='\n')
 # print('#', '#', sep='\t\t', end='\n')
 
+# Hash symbol variable
 x = '#'
 y = x*10
 # Print statement to display O letter

@@ -1,3 +1,6 @@
+# comment from Vika
+# veeeeery good job! even saving to file is written
+
 # This code will print: This is my first home task!
 print("This is my first home task!", end='\n')
 
